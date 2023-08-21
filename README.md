@@ -9,10 +9,10 @@ Otra de mis pasiones es la fotografía, y cuando me mandaron hacer un portfolio 
 ## Demostración
 
 Puede ver una demostración en vivo del sitio en este enlace
-````
+
 https://edugese.github.io/porfolio_fotografia/
 
-`````
+
 
 
 ## Características
@@ -30,6 +30,6 @@ Las contribuciones son bienvenidas y agradecidas. Si encuentras errores o mejora
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente. Las fotogracias tienen una licencia no comercial. Consultar aqui
-````
+
 https://github.com/EduGese/portfolio-fotografia/blob/main/License
-````
+
