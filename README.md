@@ -8,7 +8,8 @@ Otra de mis pasiones es la fotografía, y cuando me mandaron hacer un portfolio 
 
 -Demostración
 
-Puede ver una demostración en vivo del sitio en este enlace https://edugese.github.io/portfolio-fotografia/
+Puede ver una demostración en vivo del sitio en este enlace https://edugese.github.io/porfolio_fotografia/
+
 
 -Características
 
