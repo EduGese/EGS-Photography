@@ -10,7 +10,7 @@ Otra de mis pasiones es la fotografía, y cuando me mandaron hacer un portfolio 
 
 Puede ver una demostración en vivo del sitio en este enlace
 
-https://edugese.github.io/porfolio_fotografia/
+https://edugese.github.io/portfolio_fotografia/
 
 
 
