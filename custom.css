@@ -111,7 +111,7 @@ nav img {
 /*Portada*/
 
 #fondoportada {
-	background: url("Fondos/06052018-DSC_6082.jpg") fixed center no-repeat;
+	background: url("Fondos/mini_06052018-DSC_6082.jpg") fixed center no-repeat;
 	background-size: cover;
 	width: 100%;
 	height: 100vh;/*Para que coja siempre toda EL ALTO  LA PANTALLA*/
@@ -187,7 +187,7 @@ nav img {
 }
 
 #imgsection4 {
-	background-image: url("Urban/urban10.jpg");
+	background-image: url("Fondos/urban10.jpg");
 	background-color: #cccccc;
 	height: 25rem;
 	background-position: center;
