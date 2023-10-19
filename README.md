@@ -33,3 +33,7 @@ Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, mo
 
 https://github.com/EduGese/portfolio_fotografia/blob/master/LICENSE.md
 
+La fotografias estan bajo licencia Creative Commons. Consultar aquí
+
+https://github.com/EduGese/portfolio_fotografia/blob/master/LICENSE_photo.md
+
