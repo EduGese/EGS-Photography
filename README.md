@@ -29,7 +29,7 @@ Las contribuciones son bienvenidas y agradecidas. Si encuentras errores o mejora
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente. Las fotogracias tienen una licencia no comercial. Consultar aqui
+Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente. Consultar aqui
 
 https://github.com/EduGese/portfolio_fotografia/blob/master/LICENSE.md
 
