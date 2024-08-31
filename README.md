@@ -9,7 +9,7 @@ Another one of my passions is photography, and when I was assigned to create a p
 ## Demo
 You can see a live demo of the site at this link:
 
-https://edugese.github.io/portfolio_fotografia/
+https://edugese.github.io/EGS-Photography/
 
 ## Features
 Responsive design thanks to Bootstrap, ensuring a consistent experience on mobile and desktop devices.
