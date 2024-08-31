@@ -1,39 +1,32 @@
-# porfolio_fotografia
+# EGS-Photography
 
-Portfolio personal de fotografia realizado con HTML, CSS y Bootstrap durante el segundo año de DAW. El sitio web utiliza HTML, CSS y la biblioteca Bootstrap para lograr un diseño atractivo y receptivo.
+Personal Photography Portfolio created with HTML, CSS, and Bootstrap during the second year of DAW.
+The website uses HTML, CSS, and the Bootstrap library to achieve an attractive and responsive design.
 
-## Descripción
+## Description
+Another one of my passions is photography, and when I was assigned to create a personal portfolio for the Web Interface Design subject, I didn't hesitate. This project is a static photography portfolio designed to elegantly and effectively showcase my photographic work. The clean and minimalist structure of the site allows the images to take center stage. The use of Bootstrap ensures that the site is fully responsive, which means it will look and function well on a variety of devices and screen sizes. Only HTML, CSS, and Bootstrap have been used, which was part of the assignment's requirements, so it has few functionalities.
 
-Otra de mis pasiones es la fotografía, y cuando me mandaron hacer un portfolio personal para la asignatura de Diseño de Interfaces Web no lo dudé. Este proyecto es un portafolio de fotografía estático diseñado para mostrar de manera elegante y eficaz mis obras fotográficas. La estructura limpia y minimalista del sitio permite que las imágenes tomen el centro del escenario. El uso de Bootstrap garantiza que el sitio sea totalmente responsivo, lo que significa que se verá y funcionará bien en una variedad de dispositivos y tamaños de pantalla. Se ha utilizado únicamente HTML, CSS y Bootstrap, que era parte de los requisitos de la tarea, con lo cual tiene pocas funcionalidades.
-
-## Demostración
-
-Puede ver una demostración en vivo del sitio en este enlace
+## Demo
+You can see a live demo of the site at this link:
 
 https://edugese.github.io/portfolio_fotografia/
 
+## Features
+Responsive design thanks to Bootstrap, ensuring a consistent experience on mobile and desktop devices.
+Image galleries organized by categories or projects.
+Minimalist design that focuses on the photographs themselves.
+Easily customizable to add new photos and projects.
+Usage Instructions
+Clone or download this repository to your local machine. Open the index.html file in your browser to view the website.
 
+## Contribution
+Contributions are welcome and appreciated. If you find any bugs or improvements, please open an issue or send a pull request.
 
-
-## Características
-
-Diseño responsive gracias a Bootstrap, lo que asegura una experiencia uniforme en dispositivos móviles y de escritorio. Galerías de imágenes organizadas por categorías o proyectos. Diseño minimalista que pone el foco en las fotografías en sí. Fácilmente personalizable para agregar nuevas fotos y proyectos.
-
-## Instrucciones de Uso
-
-Clona o descarga este repositorio en tu máquina local. Abre el archivo index.html en tu navegador para ver el sitio web.
-
-## Contribución
-
-Las contribuciones son bienvenidas y agradecidas. Si encuentras errores o mejoras, por favor abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente. Consultar aqui
+## License
+This project is under the MIT License, which means you can use, modify, and distribute it freely. See here:
 
 https://github.com/EduGese/portfolio_fotografia/blob/master/LICENSE.md
 
-La fotografias estan bajo licencia Creative Commons. Consultar aquí
+The photographs are under a Creative Commons license. See here:
 
 https://github.com/EduGese/portfolio_fotografia/blob/master/LICENSE_photo.md
-
